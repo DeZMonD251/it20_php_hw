@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+}
+span, form {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+form {
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
